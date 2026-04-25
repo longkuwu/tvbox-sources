@@ -1,0 +1,15 @@
+{
+  "sites": [
+    {
+      "key": "iyf_lv",
+      "name": "爱影坊",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/longkuwu/tvbox-sources/refs/heads/main/iyf_lv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 20
+    }
+  ]
+}
